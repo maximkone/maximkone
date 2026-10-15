@@ -19,4 +19,4 @@ I build AI integrations and automation, then test them properly: reproduce, read
 
 | Project | What it is |
 |---|---|
-| [paperlife](https://github.com/MaximKonovalovDev/paperlife) | Shipped PDF product, 96 automated tests |
+| [paperlife](https://github.com/maximkone/paperlife) | Shipped PDF product, 96 automated tests |
