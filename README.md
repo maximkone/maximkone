@@ -19,6 +19,4 @@ I build AI integrations and automation, then test them properly: reproduce, read
 
 | Project | What it is |
 |---|---|
-| [FlaxNav](https://github.com/flax-game-studio/flax-nav) | Instant C# + Flax API search (~16,000 members) with edit gates that block bad AI code. |
-| [game-server-security-lab](https://github.com/MaximKonovalovDev/game-server-security-lab) | Attack my own game server + MCP plugin, document what broke (auth-bypass finding). |
 | [paperlife](https://github.com/MaximKonovalovDev/paperlife) | Shipped PDF product, 96 automated tests |
